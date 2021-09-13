@@ -12,7 +12,7 @@ int game::randomNumber()
      ran=rand()% 100 + 1 ;              // generate random numbers between 1 and 100
      cout << "random number is: " << ran << endl;                // set random number between 1-5
      return ran;
-}
+} //
 void game::compare(int user)
 {
     if(user==ran)
