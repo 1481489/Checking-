@@ -11,5 +11,5 @@ int main()
     setNumber.randomNumber(); //call random number generator function
     setNumber.compare(input);  //call compare function and pass inut as a value
     //cout << "Hello world!" << endl;
-    return 0;
+    return 0;//
 }

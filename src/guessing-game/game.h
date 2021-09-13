@@ -14,7 +14,7 @@ class game
 
     private:
         int ran;
-        //run
+        //run//
 };
 
 #endif // GAME_H
